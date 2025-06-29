@@ -18,6 +18,6 @@ npm run dev
 
 ## Interface
 
-- Clean dashboard with search functionality
-- Professional data table with alumni information
-- Modal forms for adding/editing records
+- Clean dashboard with search functionality added
+- Add/Edit functionality
+
