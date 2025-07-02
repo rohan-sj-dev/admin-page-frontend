@@ -41,9 +41,6 @@ const StatsCard = ({ title, value, icon: Icon, color }) => {
         </div>
       </div>
       <div className={`${bgColorClasses[color] || bgColorClasses.blue} px-5 py-3`}>
-        <div className="text-sm">
-          <span className="text-gray-600">Active status</span>
-        </div>
       </div>
     </div>
   );
